@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "category": "3090",
+        "title": "Bajos 5cuerdas",
+        "description_short": "Schecter Hell Raiser Extreme 5",
+        "description_long":  "Rig de 6 placas de video 3090, poder de minado 715 MHZ. Genera 800 USDT por mes. 0.27 Ether por Mes",
+        "price": 30000,
+        "stock":5,
+        "pictureUrl": "https://intelegoprojects.com/_Christian/bass1.jpg"
+    },
+    {
+        "id": "2",
+        "category": "3090",
+        "title": "Bajos 4cuerdas",
+        "description_short": "Yamaha BB series 4",
+        "description_long": "Rig de 6 placas de video 3090, poder de minado 595 MHZ. Genera 673 USDT por mes. 0.23 Ether por Mes",
+        "price": 25000,
+        "stock":3,
+        "pictureUrl": "https://intelegoprojects.com/_Christian/bass2.jpg"
+    },
+    {
+        "id": "3",
+        "category": "3090",
+        "title": "Bajos 4cuerdas",
+        "description_short": "Carl Thompson Custom 4",
+        "description_long": "Rig de 6 placas de video 3090, poder de minado 475 MHZ. Genera 537 USDT por mes. 0.18 Ether por Mes",
+        "price": 75000,
+        "stock":1,
+        "pictureUrl": "https://intelegoprojects.com/_Christian/bass3.jpg"
+    }
+
+]
